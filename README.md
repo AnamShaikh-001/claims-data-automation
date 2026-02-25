@@ -46,17 +46,22 @@ Developed a Python automation that:
 
 ---
 
-## How to Run
+## ▶️ How to Run
+
 1. Place input files inside:
-   
-data/input
 
-3. Ensure the project structure is:
+   data/input
 
-  project-folder
-│── data
-│   ├── input
-│   └── output
-│
-│── src
+2. Ensure the project structure is:
+
+   project-folder
+   │── data
+   │   ├── input
+   │   └── output
+   │
+   │── Hartford Merger.py
+
+3. Run the script:
+
+   python "Hartford Merger.py"
 │   └── claims_merge.py
