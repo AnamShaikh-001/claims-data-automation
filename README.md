@@ -46,7 +46,7 @@ Developed a Python automation that:
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Place input files inside:
 
